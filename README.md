@@ -1,1 +1,1 @@
-# lazy
+# lazy load images with jQuery
